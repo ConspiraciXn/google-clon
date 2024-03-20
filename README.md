@@ -1,29 +1,15 @@
-# GoogleClon
+# Google Clon
 
-This template should help get you started developing with Vue 3 in Vite.
+Google Clon es un proyecto generado para practicar habilidades de frontend. Se trata de una versión simplificada del famoso motor de búsqueda de Google, diseñada con el objetivo de mejorar y consolidar conocimientos en desarrollo web.
 
-## Recommended IDE Setup
+## Acerca del proyecto
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+Este proyecto utiliza Vue.js, un framework progresivo de JavaScript, para la creación del frontend. Vue.js proporciona una estructura sólida y flexible para el desarrollo de aplicaciones web interactivas y reactivas. Con Google Clon, se exploran conceptos clave como componentes, enrutamiento y manejo de estados en Vue.js.
 
-## Customize configuration
+## Tecnologías utilizadas
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+- Vue.js: Framework progresivo de JavaScript utilizado para el desarrollo del frontend.
+- HTML y CSS: Utilizados para la estructura y el diseño del sitio web.
+- JavaScript: Lenguaje de programación utilizado para la lógica y la interactividad del sitio.
 
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
